@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MockLocationDetection</string>
+    <string name="last_location_received_label">Last location received info</string>
+    <string name="latitude_label">Latitude:</string>
+    <string name="longitude_label">Longitude:</string>
+    <string name="last_update_label">Last Update:</string>
+    <string name="is_location_mock_label">Is Location Mock:</string>
+    <string name="city_label">City:</string>
+    <string name="pin_label">PinCode:</string>
+</resources>
